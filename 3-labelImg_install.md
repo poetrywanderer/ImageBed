@@ -7,7 +7,8 @@
 ####1.labelImg介绍：
 
 LabelImg适用于图像检测任务的数据集制作： 
-![这里写图片描述](https://img-blog.csdn.net/20180111164153400?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvY2hhaXBwMDYwNw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast) 
+![1](D:\深度学习\Blog\Little-tricks\20180111164153400.jpg) 
+
 它来自下面的项目：<https://github.com/tzutalin/labelImg> 
 其中标签存储功能和“Next Image”、“Prev Image”的设计使用起来比较方便。 
 该软件最后保存的xml文件格式和ImageNet数据集是一样的。
@@ -16,7 +17,7 @@ LabelImg适用于图像检测任务的数据集制作：
 
 > 官方的安装过程：
 
-![1](./Picture\3-labelImg_install\1.png)
+![1](./Picture/3-labelImg_install/1.png)
 
 > 安装过程中存在的问题：
 
