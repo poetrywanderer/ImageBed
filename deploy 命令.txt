@@ -1,0 +1,4 @@
+git add .
+git commit -a -m 'update'
+git remote add origin https://github.com/poetrywanderer/Little-tricks.git
+git push -u origin master
