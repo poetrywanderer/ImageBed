@@ -2,12 +2,10 @@
 
 > 更新时间：2018.6.21
 
-[TOC]
-
 ####1.labelImg介绍：
 
 LabelImg适用于图像检测任务的数据集制作： 
-![1](D:\深度学习\Blog\Little-tricks\20180111164153400.jpg) 
+![1](./Picture/3-labelImg_install/1.jpg) 
 
 它来自下面的项目：<https://github.com/tzutalin/labelImg> 
 其中标签存储功能和“Next Image”、“Prev Image”的设计使用起来比较方便。 
@@ -17,7 +15,7 @@ LabelImg适用于图像检测任务的数据集制作：
 
 > 官方的安装过程：
 
-![1](./Picture/3-labelImg_install/1.png)
+![2](./Picture/3-labelImg_install/1.png)
 
 > 安装过程中存在的问题：
 
